@@ -1,0 +1,5 @@
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSPanjangLebar\CSPanjangLebar\bin\Debug\CSPanjangLebar.exe.config
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSPanjangLebar\CSPanjangLebar\bin\Debug\CSPanjangLebar.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSPanjangLebar\CSPanjangLebar\bin\Debug\CSPanjangLebar.pdb
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSPanjangLebar\CSPanjangLebar\obj\Debug\CSPanjangLebar.exe
+c:\users\geeksfarm\documents\visual studio 2015\Projects\CSPanjangLebar\CSPanjangLebar\obj\Debug\CSPanjangLebar.pdb
